@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andika+Aji!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Indonesia 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Indonesia </h3>
 
 <br/>
 
@@ -18,7 +18,7 @@
  </div>
  
 <div align="center"> 
-  <a href="gmail:andkaji1927@gmail.com">
+  <a href="andkaji1927@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
