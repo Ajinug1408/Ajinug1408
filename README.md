@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Andika Aji Nugroho 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-Welcome to my GitHub! 🚀  
-I'm a passionate **[Your Role/Title]** with a love for **[Your Specialization/Interest]**. I enjoy building amazing projects, contributing to open source, and sharing knowledge with the community. 🌟
+Welcome to my GitHub! 🚀
+I'm a passionate Web Developer with a deep love for coding in Python, JavaScript, and PHP. I enjoy building innovative web projects, exploring new technologies, and sharing my journey with the developer community. 🌟
 
 ---
 
@@ -26,18 +26,13 @@ I'm a passionate **[Your Role/Title]** with a love for **[Your Specialization/In
 
 ---
 
-## 📈 GitHub Stats
-
-<table>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-  </td>
-</tr>
-</table>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ---
 
@@ -65,7 +60,7 @@ I'm a passionate **[Your Role/Title]** with a love for **[Your Specialization/In
 
 - 🚀 Always curious to learn something new.  
 - 📚 Currently exploring mastering Python, JavaScript, and PHP to bring innovative ideas to life on the web. 
-- 🌈 Fun fact:i'am Passionate about creating dynamic, user-friendly, and scalable web applications, bridging creativity with technology.
+- 🌈 Fun fact:I can spend hours debugging, but the moment it works feels like winning a championship!
 
 ---
 
