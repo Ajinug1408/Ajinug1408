@@ -29,9 +29,14 @@ I'm a passionate Web Developer with a deep love for coding in Python, JavaScript
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <!-- Snake animation -->
+  <img alt="snake animation eating contributions" src="https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg" />
+  <br/><br/>
+
+  <p>
+    <em>Watch the snake gobble up my hard work, one contribution at a time! 🚀✨</em>
+  </p>
+  <br/>
 </div>
 
 ---
