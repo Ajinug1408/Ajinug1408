@@ -1,48 +1,72 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# Hi there, I'm [Your Name] 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andika+Aji!;" />
-</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-<h3 align="center">A passionate software developer from Indonesia </h3>
+Welcome to my GitHub! 🚀  
+I'm a passionate **[Your Role/Title]** with a love for **[Your Specialization/Interest]**. I enjoy building amazing projects, contributing to open source, and sharing knowledge with the community. 🌟
 
-<br/>
+---
 
-<div align="center">
- 
- 🌱 I’m currently learning **Python, Html, CSS, PHP**
+## 🛠️ Tech Stack
 
-💬 About Me **https://www.instagram.com/dk.4ji/**
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 
- </div>
- 
-<div align="center"> 
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- **Frameworks & Libraries**:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+- **Tools & Platforms**:  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+---
 
+## 📈 GitHub Stats
 
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+  </td>
+</tr>
+</table>
 
+---
 
+## 🌟 Highlighted Projects
 
+- [📂 **Project Name**](https://github.com/your-username/project-name)  
+  🚀 *Brief description of the project and why it's awesome.*
+  - **Tech Stack**: Python, Flask, PostgreSQL
+
+- [📂 **Another Cool Project**](https://github.com/your-username/another-cool-project)  
+  🎉 *What makes this project special and what problem it solves.*
+  - **Tech Stack**: React, Node.js, MongoDB
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [Portfolio](https://your-portfolio-link.com)  
+- 📸 [Instagram](https://www.instagram.com/dk.4ji/)  
+- 📧 Email: andkaji1927@gmail.com
+
+---
+
+## 🎯 Fun Facts
+
+- 🚀 Always curious to learn something new.  
+- 📚 Currently exploring mastering Python, JavaScript, and PHP to bring innovative ideas to life on the web. 
+- 🌈 Fun fact:i'am Passionate about creating dynamic, user-friendly, and scalable web applications, bridging creativity with technology.
+
+---
+
+*Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate!* 😊
