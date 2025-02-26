@@ -2,15 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run daily
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Jalankan setiap hari
+  workflow_dispatch:  # Jalankan secara manual jika perlu
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # Versi terbaru
 
       - name: Generate Snake Animation
         uses: Platane/snk@v2
@@ -18,8 +18,8 @@ jobs:
           github_user_name: Ajinug1408
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Upload to GitHub
-        uses: actions/upload-artifact@v3
+      - name: Upload Animation
+        uses: actions/upload-artifact@v4  # Gunakan versi terbaru
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
