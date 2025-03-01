@@ -27,7 +27,6 @@
 ### 📈 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ajinug1408&show_icons=true&theme=tokyonight" />
-  <img src="https://octograph.linen.dev/api?username=Ajinug1408&theme=dark" />
 </p>
 
 </p>
