@@ -9,11 +9,11 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🏫 I'm currently in **Semester 2** at **Universitas Pamulang**  
-- 💻 Passionate about **Frontend Development** (HTML, CSS, JavaScript,Python, Bootstrap, TailwindCSS)  
-- 🎨 Love designing **modern, responsive UI**  
-- 🔥 Currently exploring **React.js & Full Stack Development**  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/andika-aji-nugroho/)**  
+🏫 I'm currently in **Semester 2** at **Universitas Pamulang**  
+💻 Passionate about **Frontend Development** (HTML, CSS, JavaScript,Python, Bootstrap, TailwindCSS)  
+🎨 Love designing **modern, responsive UI**  
+🔥 Currently exploring **React.js & Full Stack Development**  
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/andika-aji-nugroho/)**  
 
 ---
 
