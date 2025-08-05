@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Andika Aji Nugroho<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">🚀 Frontend Developer | 🎨 Bootstrap & Tailwind Enthusiast | 🎓 Informatics Student at UNPAM</h3>
+<h3 align="center">🚀 Frontend Developer | Python & JavaScript Enthusiast | 🎓 Informatics Student at UNPAM</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Building+Responsive+Websites;Bootstrap+%2B+Tailwind+Lover;Frontend+Development+Enthusiast;Lifelong+Learner" />
